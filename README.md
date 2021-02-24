@@ -30,3 +30,12 @@ this site is made by a web builder hosting. We need to migrate it to new web ser
 spacedog / igrev202!spa
 git clone ssh://spacedog@aidenhome.iptime.org:9882/volume1/igrev-dev/spacedog.git
 
+
+
+
+http://homebooking.dtryx.com/sample.html
+
+
+
+git clone ssh://igrev-dev@aidenhome.iptime.org:9882/volume1/igrev-dev/igrev.git
+igrev / igrev20@0dev
